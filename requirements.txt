@@ -10,3 +10,4 @@ matplotlib
 seaborn
 nltk
 langdetect
+deep_translator
