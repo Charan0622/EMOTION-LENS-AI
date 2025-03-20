@@ -1,0 +1,34 @@
+# Virtual Environment
+venv/
+env/
+*.env
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Machine Learning model files (optional)
+*.pkl
+*.model
+
+# OS generated files
+.DS_Store
+Thumbs.db
