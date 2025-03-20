@@ -31,7 +31,6 @@ Ensure you have **Python 3.7+** installed. 🐍✅
 ### Clone the Repository
 ```bash
 git clone https://github.com/Charan0622/EMOTION-LENS-AI
-cd sentiment-emotion-analysis
 ```
 
 ### Install Dependencies
